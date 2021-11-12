@@ -1,0 +1,12 @@
+#Include<stdio.h>
+main()
+{
+  int a,b=0;
+  scanf("%d",&a);
+  if(a>b)
+  {
+    printf("%d",a);
+  }
+  return 0;
+  
+}
